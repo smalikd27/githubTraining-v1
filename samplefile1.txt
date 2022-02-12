@@ -1,4 +1,4 @@
-this is sample file1
+
 test git reset
 test git revert 1
 merge prac dev to main
