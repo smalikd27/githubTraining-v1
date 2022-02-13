@@ -3,3 +3,4 @@ test git reset
 test git revert 1
 merge prac dev to main
 git stash prac
+changes for untracked file1
