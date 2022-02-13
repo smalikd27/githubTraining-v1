@@ -1,3 +1,4 @@
 this is sample file2
 test git reset
 test git revert 2
+git stash prac file2
